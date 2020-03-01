@@ -18,7 +18,7 @@
 * Docker, docker-compose
 * Basics of PostgresSQL administration, setting of nginx etc
 
-## Some of my project
+## Some of my projects
 * You can see some of my projects on [github](https://github.com/semyon-dev)
 
 ## Education
