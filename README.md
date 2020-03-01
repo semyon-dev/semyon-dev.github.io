@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="290" width="213">
+<img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="310" width="230">
 
 # Semyon Novikov
 * Junior Golang (Backend) Developer
@@ -40,4 +40,4 @@
 * 2nd place at the social hackathon by Novaya Gazeta & te-st.ru - 2020
 * 2nd place at the hackathon by Politex & Digital Banana - 2019
 
-![picture](https://i.imgur.com/CjmDfE4.jpg)
+![picture](https://i.imgur.com/nluiaNR.jpg)
