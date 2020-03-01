@@ -1,6 +1,6 @@
 <img src="https://github.com/semyon-dev/semyon-dev.github.io/blob/master/me.jpg" align="right" height="290" width="213">
 
-![picture](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![picture](https://sun9-20.userapi.com/c857736/v857736416/184e46/2MJxVf-jjzk.jpg)
 
 # Semyon Novikov
 * Junior Golang (Backend) Developer
