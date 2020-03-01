@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="310" width="230">
+<img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="35%" width="35%">
 
 # Semyon Novikov
 * Junior Golang (Backend) Developer
