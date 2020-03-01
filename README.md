@@ -1,4 +1,4 @@
-<img src="https://sun9-32.userapi.com/c855032/v855032787/1f5570/wvPZ1rW25Xc.jpg" align="right" height="290" width="213">
+<img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="290" width="213">
 
 # Semyon Novikov
 * Junior Golang (Backend) Developer
@@ -40,4 +40,4 @@
 * 2nd place at the social hackathon by Novaya Gazeta & te-st.ru - 2020
 * 2nd place at the hackathon by Politex & Digital Banana - 2019
 
-![picture](https://sun9-20.userapi.com/c857736/v857736416/184e46/2MJxVf-jjzk.jpg)
+![picture](https://i.imgur.com/CjmDfE4.jpg)
