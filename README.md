@@ -1,5 +1,6 @@
 <img src="https://github.com/semyon-dev/semyon-dev.github.io/blob/master/me.jpg" align="right" height="290" width="213">
 
+![picture](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 # Semyon Novikov
 * Junior Golang (Backend) Developer
@@ -11,7 +12,6 @@
 * Email: semyon-dev@protonmail.com
 * Phone number: +79811058990
 
-![picture](https://github.com/semyon-dev/semyon-dev.github.io/blob/master/golang.png)
 
 ## Skills
 * Golang, gin, go-ethereum, SQL, go-orm, HTTP
