@@ -11,6 +11,8 @@
 * Email: semyon-dev@protonmail.com
 * Phone number: +79811058990
 
+![picture](https://github.com/semyon-dev/semyon-dev.github.io/blob/master/golang.png)
+
 ## Skills
 * Golang, gin, go-ethereum, SQL, go-orm, HTTP
 * Python3.x, psycopg2, sqlite, Flask, telegram-bot, vk-bot, HTTP etc
