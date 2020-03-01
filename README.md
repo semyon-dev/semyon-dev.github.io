@@ -8,7 +8,6 @@
 ## Contact
 * Telegram: [t.me/semyon-dev](https://t.me/semyon-dev)
 * Email: semyon-dev@protonmail.com
-* Phone number: +79811058990
 
 ## Skills
 * Golang, gin, go-ethereum, SQL, go-orm, HTTP, mongodb etc
