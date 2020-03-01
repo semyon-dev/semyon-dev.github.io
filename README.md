@@ -1,9 +1,12 @@
 # Semyon Novikov
-Junior Golang Developer from Russia, Saint-Petersburg
+* Junior Golang (Backend) Developer
+* Russia, Saint-Petersburg
+* 19 years old
 
 ## Contact
-* [Telegram](https://t.me/semyon-dev)
-* Email - semyon-dev@protonmail.com
+* Telegram: [t.me/semyon-dev](https://t.me/semyon-dev)
+* Email: semyon-dev@protonmail.com
+* Phone number: +79811058990
 
 ## Skills
 * Golang, gin, go-ethereum, SQL, go-orm, HTTP
@@ -13,7 +16,7 @@ Junior Golang Developer from Russia, Saint-Petersburg
 * Docker, docker-compose
 
 ## Some of my project
-* you can find some of my projects on [github](https://github.com/semyon-dev)
+* You can see some of my projects on [github](https://github.com/semyon-dev)
 
 ## Education
 * St. Petersburg State University of Telecommunications - software engineering
