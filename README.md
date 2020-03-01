@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="35%" width="35%">
+<img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="33%" width="33%">
 
 # Semyon Novikov
 * Junior Golang (Backend) Developer
@@ -10,13 +10,13 @@
 * Email: semyon-dev@protonmail.com
 * Phone number: +79811058990
 
-
 ## Skills
-* Golang, gin, go-ethereum, SQL, go-orm, HTTP
+* Golang, gin, go-ethereum, SQL, go-orm, HTTP, mongodb etc
 * Python3.x, psycopg2, sqlite, Flask, telegram-bot, vk-bot, HTTP etc
 * Linux (debian, ubuntu, arch)
 * Git, svn, Github (github actions), Bitbucket, Gitlab (CI/CD)
 * Docker, docker-compose
+* Basics of PostgresSQL administration, setting of nginx etc
 
 ## Some of my project
 * You can see some of my projects on [github](https://github.com/semyon-dev)
