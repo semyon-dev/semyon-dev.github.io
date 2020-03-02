@@ -6,7 +6,7 @@
 * 19 years old
 
 ## Contact
-* Telegram: [t.me/semyon-dev](https://t.me/semyon-dev)
+* Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
 * Email: semyon-dev@protonmail.com
 
 ## Skills
