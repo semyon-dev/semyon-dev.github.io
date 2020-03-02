@@ -17,7 +17,7 @@
 * Docker, docker-compose
 * Basics of PostgresSQL administration, setting of nginx etc
 
-## Some of my projects
+## Portfolio
 * You can see some of my projects on [github](https://github.com/semyon-dev)
 
 ## Education
@@ -37,6 +37,6 @@
 
 ## Hackathons
 * 2nd place at the social hackathon by Novaya Gazeta & te-st.ru - 2020
-* 2nd place at the hackathon by Politex & Digital Banana - 2019
+* 2nd place & special prize for best technology stack at the hackathon by Politex & Digital Banana - 2019
 
 ![picture](https://i.imgur.com/nluiaNR.jpg)
