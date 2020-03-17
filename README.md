@@ -12,20 +12,21 @@
 ## Skills
 * Golang, gin, go-ethereum, SQL, go-orm, HTTP, mongodb etc
 * Python3.x, psycopg2, sqlite, Flask, telegram-bot, vk-bot, HTTP etc
-* Linux (debian, ubuntu, arch)
+* Linux basics administration (debian, ubuntu, arch)
 * Git, svn, Github (github actions), Bitbucket, Gitlab (CI/CD)
 * Docker, docker-compose
+* Basics of C/C++/ASM (nasm)
 * Basics of PostgresSQL administration, setting of nginx etc
 
 ## Portfolio
 * You can see some of my projects on [github](https://github.com/semyon-dev)
 
 ## Education
-* St. Petersburg State University of Telecommunications - software engineering
+* St. Petersburg State University of Telecommunications - Software Engineering (2019 - 2023)
 
 ## Languages: 
 * Russian (native)
-* English (Intermediate - Upper Intermediate)
+* English (upper intermediate)
 
 ## Personal qualities: 
 * love of my work
