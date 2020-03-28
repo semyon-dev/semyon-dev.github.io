@@ -9,14 +9,14 @@
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
 * Email: semyon-dev@protonmail.com
 
-## key skills
+## Key skills
 * Golang, gin, go-ethereum, go-orm, HTTP etc
 * have experience with PostgresSQL, Clickhouse, MongoDB, nginx etc
 * Linux basics (debian, ubuntu, arch)
 * Git, svn, Github (github actions), Bitbucket, Gitlab (CI/CD)
 * Docker, docker-compose
 
-### secondary skills
+#### secondary skills
 * basics of Python3, psycopg2, sqlite, Flask, telegram-bot, vk-bot, HTTP etc
 * basics of C/C++/ASM (nasm)
 
