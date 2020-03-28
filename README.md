@@ -9,14 +9,14 @@
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
 * Email: semyon-dev@protonmail.com
 
-## Key skills
-* Golang, gin, go-ethereum, go-orm, HTTP etc
-* have experience with PostgresSQL, Clickhouse, MongoDB, nginx etc
+## Core skills
+* Golang, gin, go-ethereum, go-orm, sqlite, HTTP etc
+* have experience with PostgresSQL, MongoDB, Clickhouse, nginx etc
 * Linux basics (debian, ubuntu, arch)
-* Git, svn, Github (github actions), Bitbucket, Gitlab (CI/CD)
+* Git, svn, Github (github actions), Gitlab (CI/CD), Bitbucket
 * Docker, docker-compose
 
-#### secondary skills
+#### additional  skills
 * basics of Python3, psycopg2, sqlite, Flask, telegram-bot, vk-bot, HTTP etc
 * basics of C/C++/ASM (nasm)
 
@@ -26,14 +26,15 @@
 ## Education
 * St. Petersburg State University of Telecommunications - Software Engineering (2019 - 2023)
 
-## Languages: 
+## Languages
 * Russian (native)
 * English (upper intermediate)
 
-## Personal qualities: 
+## Personal qualities
 * love of my work
 * responsibility
 * perseverance, patience
+* effective team player
 * ability to find information
 * focus on problem-solving
 * learning and self-learning
