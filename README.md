@@ -9,16 +9,18 @@
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
 * Email: semyon-dev@protonmail.com
 
-## Skills
-* Golang, gin, go-ethereum, SQL, go-orm, HTTP, mongodb etc
-* Python3.x, psycopg2, sqlite, Flask, telegram-bot, vk-bot, HTTP etc
-* Linux basics administration (debian, ubuntu, arch)
+## key skills
+* Golang, gin, go-ethereum, go-orm, HTTP etc
+* have experience with PostgresSQL, Clickhouse, MongoDB, nginx etc
+* Linux basics (debian, ubuntu, arch)
 * Git, svn, Github (github actions), Bitbucket, Gitlab (CI/CD)
 * Docker, docker-compose
-* Basics of C/C++/ASM (nasm)
-* Basics of PostgresSQL administration, setting of nginx etc
 
-## Portfolio
+### secondary skills
+* basics of Python3, psycopg2, sqlite, Flask, telegram-bot, vk-bot, HTTP etc
+* basics of C/C++/ASM (nasm)
+
+## My projects
 * You can see some of my projects on [github](https://github.com/semyon-dev)
 
 ## Education
@@ -37,6 +39,7 @@
 * learning and self-learning
 
 ## Hackathons
+* 2nd place at HACKUNIVERSITY - 2020
 * 2nd place at the social hackathon by Novaya Gazeta & te-st.ru - 2020
 * 2nd place & special prize for best technology stack at the hackathon by Politex & Digital Banana - 2019
 
