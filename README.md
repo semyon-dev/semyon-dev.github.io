@@ -12,7 +12,7 @@
 
 ## Contact
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
-* Email: [semyon-dev@protonmail.com]
+* Email: [semyon-dev@protonmail.com](semyon-dev@protonmail.com)
 
 ## My projects
 * You can see some of my projects and contributions on [github](https://github.com/semyon-dev)
