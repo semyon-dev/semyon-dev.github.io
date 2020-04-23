@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="33%" width="33%">
 
-# Semyon Novikov aka semyon_dev
+# Semyon Novikov (semyon_dev)
 * Junior Golang & Backend Developer
 * Creator of [course](https://stepik.org/course/54403) with 4K+ students on stepik.org
 * Winner of 3 hackathons (2 as team captain)
@@ -15,7 +15,7 @@
 * Email: [semyon-dev@protonmail.com](semyon-dev@protonmail.com)
 
 ## My projects
-* You can see some of my projects and contributions on [github](https://github.com/semyon-dev)
+* You can see some of my projects (including hackathons projects) and contributions on [github](https://github.com/semyon-dev)
 
 ## Hackathons
 * 2nd place at HACKUNIVERSITY (captain & backend) - 2020
