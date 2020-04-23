@@ -24,5 +24,5 @@
 
 ![picture](https://i.imgur.com/nluiaNR.jpg)
 
-<img src="https://github.com/semyon-dev/semyon-dev.github.io/blob/master/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png" align="center" height="55%" width="55%">
+<img src="https://i.imgur.com/wur80Op.png" align="center" height="55%" width="55%">
 
