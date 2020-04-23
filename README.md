@@ -8,7 +8,7 @@
 ## About me
 * Russia, Saint-Petersburg
 * 19 years old
-* [my CV](https://semyon.tech/myCV.pdf)
+* Сurrently open to offers - [my CV](https://semyon.tech/myCV.pdf)
 
 ## Contact
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
