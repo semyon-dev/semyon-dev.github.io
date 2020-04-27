@@ -1,9 +1,11 @@
 <img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="33%" width="33%">
 
+
 # Semyon Novikov (semyon_dev)
-* Junior Golang & Backend Developer
-* Creator of [course](https://stepik.org/course/54403) with 4K+ students on stepik.org
-* Winner of 3 hackathons (2 as team captain)
+* 👨‍💻 Junior Golang & Backend Developer
+* 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403) with 4K+ students on stepik.org
+* 🏆 Winner of [3 hackathons](#hackathons) (2 as team captain)
+* 🔥 [Golang contributor](https://github.com/golang/go/issues/38682)
 
 ## About me
 * Russia, Saint-Petersburg
@@ -18,8 +20,8 @@
 * You can see some of my projects (including hackathons projects) and contributions on [github](https://github.com/semyon-dev)
 
 ## Hackathons
-* 2nd place at HACKUNIVERSITY (captain & backend) - 2020
-* 2nd place at the social hackathon by Novaya Gazeta & te-st.ru (backend & data analysis) - 2020
+* 2nd place at [HACKUNIVERSITY](https://www.hackuniversity.ru/) (captain & backend) - 2020
+* 2nd place at the [social hackathon by Novaya Gazeta & te-st.ru](https://projector2020.te-st.ru/) (backend & data analysis) - 2020
 * 2nd place & special award (best tech stack) at the hackathon by Polytech (captain & backend) - 2019
 
 ![picture](https://i.imgur.com/nluiaNR.jpg)
