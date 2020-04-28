@@ -4,7 +4,7 @@
 # Semyon Novikov (semyon_dev)
 * 👨‍💻 Junior Golang & Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403) with 4K+ students on stepik.org
-* 🏆 Winner of [3 hackathons](#hackathons) (2 as team captain)
+* 🏆 Winner of [2 hackathons](#hackathons) (all as team captain)
 * 🔥 [Golang contributor](https://github.com/golang/go/issues/38682)
 
 ## About me
@@ -21,7 +21,7 @@
 
 ## Hackathons
 * 2nd place at [HACKUNIVERSITY](https://www.hackuniversity.ru/) (captain & backend) - 2020
-* 2nd place at the [social hackathon by Novaya Gazeta & te-st.ru](https://projector2020.te-st.ru/) (backend & data analysis) - 2020
+* finalists at [social hackathon by Novaya Gazeta & te-st.ru](https://projector2020.te-st.ru/project/imprisonedproject/) (backend & data analysis) - 2020
 * 2nd place & special award (best tech stack) at the hackathon by Polytech (captain & backend) - 2019
 
 ![picture](https://i.imgur.com/nluiaNR.jpg)
