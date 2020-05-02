@@ -21,7 +21,7 @@
 
 ## Hackathons
 * 2nd place at [HACKUNIVERSITY](https://www.hackuniversity.ru/) (captain & backend) - 2020
-* finalists at [social hackathon by Novaya Gazeta & te-st.ru](https://projector2020.te-st.ru/project/imprisonedproject/) (backend & data analysis) - 2020
+* Finalists at [social hackathon by Novaya Gazeta & te-st.ru](https://projector2020.te-st.ru/project/imprisonedproject/) (backend & data analysis) - 2020
 * 2nd place & special award (best tech stack) at the hackathon by Polytech (captain & backend) - 2019
 
 ![picture](https://i.imgur.com/nluiaNR.jpg)
