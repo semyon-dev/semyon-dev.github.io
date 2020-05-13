@@ -2,19 +2,22 @@
 
 
 # Semyon Novikov (semyon_dev)
+* 🇷🇺 Russia, Saint-Petersburg
+* 🚀 19 years old
 * 👨‍💻 Junior Golang & Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403) with 4K+ students on stepik.org
 * 🏆 Winner of [2 hackathons](#hackathons) (all as team captain)
 * 🔥 [Golang contributor](https://github.com/golang/go/issues/38682)
 
-## About me
-* Russia, Saint-Petersburg
-* 19 years old
-* Сurrently open to offers - [my CV](https://semyon.tech/CV.pdf)
+## Job
+* Company: since 2020 - [BIOCAD](https://biocad.ru/)
+* Position: Software Developer (Backend, Golang)
 
 ## Contact
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
 * Email: [semyon-dev@protonmail.com](mailto:semyon-dev@protonmail.com)
+* [my CV](https://semyon.tech/CV.pdf)
+* [Instagram](https://instagram.com/semyon_dev)
 
 ## My projects
 * You can see some of my projects (including hackathons projects) and contributions on [github](https://github.com/semyon-dev)
@@ -27,4 +30,5 @@
 ![picture](https://i.imgur.com/nluiaNR.jpg)
 
 <img src="https://i.imgur.com/wur80Op.png" align="center" height="55%" width="55%">
+
 
