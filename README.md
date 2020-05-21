@@ -31,4 +31,6 @@
 
 <img src="https://i.imgur.com/wur80Op.png" align="center" height="55%" width="55%">
 
+# 
 
+Thanks to [Nata](https://www.instagram.com/nataliezire/) for help with CV
