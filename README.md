@@ -5,7 +5,7 @@
 * 🇷🇺 Russia, Saint-Petersburg
 * 🚀 19 years old
 * 👨‍💻 Junior Golang & Backend Developer
-* 👨‍🎓 Creator of [golang course](https://stepik.org/54403) with 5K+ students on stepik.org
+* 👨‍🎓 Creator of [golang course](https://stepik.org/54403) with 5.5K+ students on stepik.org
 * 🏆 Winner of [2 hackathons](#hackathons) (all as team captain)
 * 🔥 [Golang contributor](https://github.com/golang/go/issues/38682)
 
@@ -19,8 +19,9 @@
 * [my CV](https://semyon.tech/CV.pdf)
 * [Instagram](https://instagram.com/semyon_dev)
 
-## My projects
-* You can see some of my projects (including hackathons projects) and contributions on [github](https://github.com/semyon-dev)
+## My projects/took part
+* Знай край [znai-krai.zekovnet.ru](https://znai-krai.zekovnet.ru/)
+* You can see other my projects (including hackathons projects) and contributions on [github](https://github.com/semyon-dev)
 
 ## Hackathons
 * 2nd place at [HACKUNIVERSITY](https://www.hackuniversity.ru/) (captain & backend) - 2020
