@@ -9,6 +9,9 @@
 * 🏆 Winner of [3 hackathons](#hackathons) (all as team captain)
 * 🔥 [Golang contributor](https://github.com/golang/go/issues/38682)
 
+# CV
+* [my CV](https://semyon.tech/CV.pdf)
+
 ## Job
 * Company: June 2020 - Septebmer 2020 [BIOCAD](https://biocad.ru/)
 * Position: Software Developer (Backend, Golang)
@@ -16,7 +19,6 @@
 ## Contact
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
 * Email: [semyon-dev@protonmail.com](mailto:semyon-dev@protonmail.com)
-* [my CV](https://semyon.tech/CV.pdf)
 * [Instagram](https://instagram.com/semyon_dev)
 
 ## My projects/took part
