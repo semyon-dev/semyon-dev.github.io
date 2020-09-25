@@ -10,7 +10,7 @@
 * 🔥 [Golang contributor](https://github.com/golang/go/issues/38682)
 
 # CV
-* [my CV](https://semyon.tech/CV.pdf)
+* [my full CV](https://semyon.tech/CV.pdf)
 
 ## Job
 * Company: June 2020 - Septebmer 2020 [BIOCAD](https://biocad.ru/)
@@ -35,7 +35,10 @@
 <details>
 <summary>expand</summary>
   
+ <img src="https://i.imgur.com/BYxkmYm.jpg" align="center" height="55%" width="55%">
+
  <img src="https://i.imgur.com/nluiaNR.jpg" align="center" height="55%" width="55%">
 
 <img src="https://i.imgur.com/wur80Op.png" align="center" height="45%" width="45%">
+
 </details>
