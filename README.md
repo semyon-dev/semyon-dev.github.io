@@ -13,8 +13,8 @@
 * [my full CV](https://semyon.tech/CV.pdf)
 
 ## Job
-* Company: June 2020 - Septebmer 2020 [BIOCAD](https://biocad.ru/)
-* Position: Software Developer (Backend, Golang)
+* June 2020 - Septebmer 2020 [BIOCAD](https://biocad.ru/) (Backend, Golang)
+* October 2020 - now [9-18.ru](http://9-18.ru/) (Backend, Golang)
 
 ## Contact
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
