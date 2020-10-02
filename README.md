@@ -12,14 +12,14 @@
 # CV
 * [my full CV](https://semyon.tech/CV.pdf)
 
-## Job
-* June 2020 - Septebmer 2020 [BIOCAD](https://biocad.ru/) (Backend, Golang)
-* October 2020 - now [9-18.ru](http://9-18.ru/) (Backend, Golang)
-
 ## Contact
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
 * Email: [semyon-dev@protonmail.com](mailto:semyon-dev@protonmail.com)
 * [Instagram](https://instagram.com/semyon_dev)
+
+## Job
+* June 2020 - Septebmer 2020 [BIOCAD](https://biocad.ru/) (Backend, Golang)
+* October 2020 - now [9-18.ru](http://9-18.ru/) (Backend, Golang)
 
 ## My projects/took part
 * Знай край [znai-krai.zekovnet.ru](https://znai-krai.zekovnet.ru/)
