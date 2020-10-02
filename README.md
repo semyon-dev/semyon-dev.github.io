@@ -7,7 +7,6 @@
 * 👨‍💻 Golang & Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/54403) with 8K+ students on stepik.org
 * 🏆 Winner of [3 hackathons](#hackathons) (all as team captain)
-* 🔥 [Golang contributor](https://github.com/golang/go/issues/38682)
 
 # CV
 * [my full CV](https://semyon.tech/CV.pdf)
