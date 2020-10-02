@@ -32,13 +32,9 @@
 * 2nd place & special award (best tech stack) at the hackathon by Polytech (captain & backend) - 2019
 
 ## Photos
-<details>
-<summary>expand</summary>
   
- <img src="https://i.imgur.com/BYxkmYm.jpg" align="center" height="55%" width="55%">
+<img src="https://i.imgur.com/BYxkmYm.jpg" align="center" height="55%" width="55%">
 
- <img src="https://i.imgur.com/nluiaNR.jpg" align="center" height="55%" width="55%">
+<img src="https://i.imgur.com/nluiaNR.jpg" align="center" height="55%" width="55%">
 
 <img src="https://i.imgur.com/wur80Op.png" align="center" height="45%" width="45%">
-
-</details>
