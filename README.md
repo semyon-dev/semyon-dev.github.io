@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/CjmDfE4.jpg" align="right" height="33%" width="33%">
 
 
-# Semyon Novikov (semyon_dev)
+# Semyon Novikov
 * 🇷🇺 Russia, Saint-Petersburg
 * 🚀 19 years old
 * 👨‍💻 Golang & Backend Developer
