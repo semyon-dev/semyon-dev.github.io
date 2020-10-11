@@ -41,7 +41,7 @@ Other projects/contributions (including hackathons) on [github](https://github.c
 * Finalists at [social hackathon by Novaya Gazeta & te-st.ru](https://projector2020.te-st.ru/project/imprisonedproject/) - 2020
   * Backend & data analysis (Golang)
   * [Github](https://github.com/semyon-dev/znai-krai)
-* 2nd place & special award (best tech stack) at the hackathon by Polytech (captain & backend) - 2019
+* 2nd place & best tech stack at the hackathon by [Polytech](https://www.spbstu.ru/) & [digital-banana](https://www.digital-banana.ru/) - 2019
   * Captain & backend (Python)
   * [Github](https://github.com/semyon-dev/polytech-hackathon)
 
