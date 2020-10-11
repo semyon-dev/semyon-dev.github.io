@@ -26,6 +26,8 @@
 * [Знай край](https://znai-krai.zekovnet.ru/) 
   * Backend (Golang)
   * [Github](https://github.com/semyon-dev/znai-krai)
+* [keyzu](https://keyzu.ru/) 
+  * Teamlead (Backend, Golang)
 * Other projects/contributions (including hackathons) on [github](https://github.com/semyon-dev)
 
 ## Hackathons
