@@ -18,10 +18,11 @@
 
 ## Job
 * June 2020 - Septebmer 2020 [BIOCAD](https://biocad.ru/) (Backend, Golang)
-* October 2020 - now [9-18.ru](http://9-18.ru/) (Backend, Golang)
+* October 2020 - now [edvola](https://edvola.com/) (Backend, Golang)
 
-## My projects/took part
-* Знай край [znai-krai.zekovnet.ru](https://znai-krai.zekovnet.ru/)
+## Participated in projects
+* [9-18.ru](http://9-18.ru/) (Backend, Golang)
+* [Знай край](https://znai-krai.zekovnet.ru/) (Backend, Golang)
 * You can see other my projects (including hackathons projects) and contributions on [github](https://github.com/semyon-dev)
 
 ## Hackathons
