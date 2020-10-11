@@ -21,15 +21,26 @@
 * October 2020 - now: [edvola](https://edvola.com/) (Backend, Golang)
 
 ## Participated in projects
-* [9-18.ru](http://9-18.ru/) (Backend, Golang)
-* [Знай край](https://znai-krai.zekovnet.ru/) (Backend, Golang)
-* You can see other my projects (including hackathons projects) and contributions on [github](https://github.com/semyon-dev)
+* [9-18.ru](http://9-18.ru/)
+  * Backend (Golang)
+* [Знай край](https://znai-krai.zekovnet.ru/) 
+  * Backend (Golang)
+  * [Github](https://github.com/semyon-dev/znai-krai)
+* Other projects/contributions (including hackathons) on [github](https://github.com/semyon-dev)
 
 ## Hackathons
-* 1 place at [Хакатон Труда 2](https://xn--80aaap2atgrpcmp.xn--p1ai/) (captain & backend) - 2020
-* 2nd place at [HACKUNIVERSITY](https://www.hackuniversity.ru/) (captain & backend) - 2020
-* Finalists at [social hackathon by Novaya Gazeta & te-st.ru](https://projector2020.te-st.ru/project/imprisonedproject/) (backend & data analysis) - 2020
+* 1 place at [Хакатон Труда 2](https://xn--80aaap2atgrpcmp.xn--p1ai/) - 2020
+  * Captain & backend (Golang)
+  * [Github](https://github.com/semyon-dev/hackathon-of-work)
+* 2nd place at [HACKUNIVERSITY](https://www.hackuniversity.ru/) - 2020
+  * Captain & backend (Golang)
+  * [Github](https://github.com/semyon-dev/hackuniversity)
+* Finalists at [social hackathon by Novaya Gazeta & te-st.ru](https://projector2020.te-st.ru/project/imprisonedproject/) - 2020
+  * Backend & data analysis (Golang)
+  * [Github](https://github.com/semyon-dev/znai-krai)
 * 2nd place & special award (best tech stack) at the hackathon by Polytech (captain & backend) - 2019
+  * Captain & backend (Python)
+  * [Github](https://github.com/semyon-dev/polytech-hackathon)
 
 ## Photos
   
