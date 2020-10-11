@@ -28,7 +28,8 @@
   * [Github](https://github.com/semyon-dev/znai-krai)
 * [keyzu](https://keyzu.ru/) 
   * Teamlead (Backend, Golang)
-* Other projects/contributions (including hackathons) on [github](https://github.com/semyon-dev)
+
+Other projects/contributions (including hackathons) on [github](https://github.com/semyon-dev)
 
 ## Hackathons
 * 1 place at [Хакатон Труда 2](https://xn--80aaap2atgrpcmp.xn--p1ai/) - 2020
