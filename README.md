@@ -17,8 +17,8 @@
 * [Instagram](https://instagram.com/semyon_dev)
 
 ## Job
-* June 2020 - Septebmer 2020 [BIOCAD](https://biocad.ru/) (Backend, Golang)
-* October 2020 - now [edvola](https://edvola.com/) (Backend, Golang)
+* June 2020 - Septebmer 2020: [BIOCAD](https://biocad.ru/) (Backend, Golang)
+* October 2020 - now: [edvola](https://edvola.com/) (Backend, Golang)
 
 ## Participated in projects
 * [9-18.ru](http://9-18.ru/) (Backend, Golang)
