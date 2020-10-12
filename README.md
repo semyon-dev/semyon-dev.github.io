@@ -17,8 +17,12 @@
 * [Linkedin](https://www.linkedin.com/in/semyon-dev/)
 
 ## Job
-* June 2020 - Septebmer 2020: [BIOCAD](https://biocad.ru/) (Backend, Golang)
-* October 2020 - now: [edvola](https://edvola.com/) (Backend, Golang)
+* October 2020 - now: [edvola](https://edvola.com/)
+  * Разработчик серверной части
+  * Backend, Golang, Git, SQL, Postgres, Gitlab
+* June 2020 - Septebmer 2020: [BIOCAD](https://biocad.ru/)
+  * Стажер разработчик
+  * Backend, Golang, Git, MQTT, memcached, Gitlab, MongoDB
 
 ## Participated in projects
 * [9-18.ru](http://9-18.ru/)
