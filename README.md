@@ -17,7 +17,7 @@
 * [Linkedin](https://www.linkedin.com/in/semyon-dev/)
 
 ## Job
-* October 2020 - now: [edvola](https://edvola.com/)
+* October 2020 - now: [Edvola](https://edvola.com/)
   * Разработчик серверной части
   * Backend, Golang, Git, SQL, Postgres, Gitlab
 * June 2020 - Septebmer 2020: [BIOCAD](https://biocad.ru/)
