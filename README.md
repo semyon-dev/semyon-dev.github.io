@@ -14,7 +14,7 @@
 ## Contact
 * Telegram: [t.me/semyon_dev](https://t.me/semyon_dev)
 * Email: [semyon-dev@protonmail.com](mailto:semyon-dev@protonmail.com)
-* [Instagram](https://instagram.com/semyon_dev)
+* [Linkedin](https://www.linkedin.com/in/semyon-dev/)
 
 ## Job
 * June 2020 - Septebmer 2020: [BIOCAD](https://biocad.ru/) (Backend, Golang)
