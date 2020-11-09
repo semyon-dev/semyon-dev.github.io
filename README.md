@@ -6,7 +6,7 @@
 * 🚀 19 years old
 * 👨‍💻 Golang & Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/54403) with 9K+ students on stepik.org
-* 🏆 Winner of [3 hackathons](#hackathons) (all as team captain)
+* 🏆 Winner of [4 hackathons](#hackathons) (all as team captain)
 
 # CV
 * [my full CV](https://semyon.tech/CV.pdf)
@@ -36,6 +36,9 @@
 Other projects/contributions (including hackathons) on [github](https://github.com/semyon-dev)
 
 ## Hackathons
+* 1 place at [Crypto Wallet Kickstart](https://mybglwallet.com/) - 2020
+  * Captain & backend (python) & mobile (kotlin)
+  * [Github of mobile wallet](https://github.com/GranPecador/bgl-wallet-android) & [Github of backend](https://github.com/semyon-dev/backend-bgl-wallet)
 * 1 place at [Хакатон Труда 2](https://xn--80aaap2atgrpcmp.xn--p1ai/) - 2020
   * Captain & backend (Golang)
   * [Github](https://github.com/semyon-dev/hackathon-of-work)
