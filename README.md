@@ -3,7 +3,7 @@
 
 # Semyon Novikov
 * 🇷🇺 Russia, Saint-Petersburg
-* 🚀 19 years old
+* 🚀 20 years old
 * 👨‍💻 Golang & Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/54403) with 10K+ students on stepik.org
 * 🏆 Winner of [4 hackathons](#hackathons) (all as team captain)
